@@ -1251,7 +1251,7 @@ uglyURLs = false
     displaySiteCopyright = false
 
     # 自定义页脚（支持 Markdown）
-    customFooter = "[![travellings](https://img.shields.io/badge/%E8%99%AB%E6%B4%9E-%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6-critical?style=flat&logo=Habr&logoColor=inactive)](https://foreverblog.cn/go.html) [![travellings](https://img.shields.io/badge/%E5%BC%80%E5%BE%80-Travelling-yellow?style=flat&logo=Hoppscotch&logoColor=9cf)](https://travellings.cn/go.html) [![Netlify Status](https://api.netlify.com/api/v1/badges/5e07c1ae-6dcb-4def-8a6a-67d761756d28/deploy-status)](https://app.netlify.com/sites/imum/deploys) [![](https://data.jsdelivr.com/v1/package/gh/imum-me/img/badge)](https://www.jsdelivr.com/package/gh/imum-me/img)"
+    customFooter = "[![travellings](https://img.shields.io/badge/%E8%99%AB%E6%B4%9E-%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6-critical?style=flat&logo=Habr&logoColor=inactive)](https://foreverblog.cn/go.html) [![travellings](https://img.shields.io/badge/%E5%BC%80%E5%BE%80-Travelling-yellow?style=flat&logo=Hoppscotch&logoColor=9cf)](https://travellings.cn/go.html) [![cloudflare](https://img.shields.io/badge/Cloudflare-Cloudflare%20Pages&CDN-important?style=plastic&logo=cloudflare)](https://dash.cloudflare.com/) [![](https://data.jsdelivr.com/v1/package/gh/imum-me/img/badge)](https://www.jsdelivr.com/package/gh/imum-me/img)"
 
     displayBusuanziSiteUVAndPV = true
     busuanziSiteUVText = "本站访客数"
