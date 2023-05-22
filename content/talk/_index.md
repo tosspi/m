@@ -18,7 +18,7 @@ displayPostCopyright: false
 <script type="text/javascript">
   var bbMemos = {
     memos : 'https://mybelife.com/',//修改为自己部署 Memos 的网址，末尾有 / 斜杠
-    limit : '',//默认每次显示 10条
+    limit : '10',//默认每次显示 10条
     creatorId:'' ,//早期默认为 101 用户，新安装是 1； https://demo.usememos.com/u/101
     domId: '',//默认为 <div id="bber"></div>
   }
