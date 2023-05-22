@@ -10,10 +10,10 @@ readingBar: true
 
 <font size=4 color=#ffa07a>今天在找“哔哔了啥”的解决方案，发现[木木大佬](https://immmmm.com/) 的博客内关于Rime的文章。</font><br>
 ![517-1](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/517-1.png) <br>
-<font size=4 color=#ffa07a>原先用的是[三十年河东的朙月拼音](https://ssnhd.com/2022/01/06/rime/) Github: [](https://github.com/ssnhd/rime) 。</font><br>
+<font size=4 color=#ffa07a>原先用的是[三十年河东的朙月拼音](https://ssnhd.com/2022/01/06/rime/) Github: [https://github.com/ssnhd/rime](https://github.com/ssnhd/rime) 。</font><br>
 ![517-2](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/517-2.png)
 <br>
-<font size=4 color=#ffa07a>通过木木大佬的文章，发现还有个[雾凇拼音](https://dvel.me/posts/rime-ice/) Github: [](https://github.com/iDvel/rime-ice) ,感觉也不错，主要是U模式拆字，决定开搞。</font>
+<font size=4 color=#ffa07a>通过木木大佬的文章，发现还有个[雾凇拼音](https://dvel.me/posts/rime-ice/) Github: [https://github.com/iDvel/rime-ice](https://github.com/iDvel/rime-ice) ,感觉也不错，主要是U模式拆字，决定开搞。</font>
 
 
 <br> 
