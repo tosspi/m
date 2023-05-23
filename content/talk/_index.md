@@ -1,5 +1,5 @@
 ---
-title: "胡言乱语"
+title: "🦖胡言乱语"
 date: 2022-01-21T16:25:53+08:00
 draft: false
 type: shuoshuo
