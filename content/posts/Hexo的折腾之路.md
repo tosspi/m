@@ -8,7 +8,7 @@ readingBar: true
 ---
 ![WX20220921-161133](https://cdn.jsdelivr.net/gh/imum-me/img@main/uPic/WX20220921-161133.png)
 2023.05.22更新
-今天Hexo正式弃用了，现在换成Hugo了，采用了，GitHub仓库+Cloudflare Pages部署原先分成俩的博客正式合成一个。
+今天Hexo正式弃用了，现在换成Hugo了，采用了，GitHub仓库+Cloudflare Pages部署原先分成俩的博客正式合成一个。（过几天，新工厂搬家完成以后写一个全面拥抱Cloudflare Pages的文章）
 
 ## 前言
   折腾博客应该是从去年开始，具体时间忘记了，一开始是hexo+GitHub Pages，主题用过[Ayer](https://shen-yu.gitee.io/)、后来换成了[Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) ,这里说一下butterfly确实不错，可以折腾的地方太多了。最后换成了本站这种样式[nexT](https://github.com/next-theme/hexo-theme-next),采用GitHub存储库+Vercel部属+Cloudflare加速。
