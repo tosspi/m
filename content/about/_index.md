@@ -7,7 +7,9 @@ adjacentPost: false
 ---
 ![Zhao](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/zhaoico2.png)
    <big>2022.01.16</big>
-   
+   <br>
+   <video src="https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/lanjing.mp4" controls></video>
+   <br>
    <font size=20 color=#f7cc003 >今</font><font size=3 color=#d56359 >天闲来无事把关于页面写一下吧。</font>  <br>
   <font size=2 color=#d56359 >我是一个不善于写作的理科生，所以这个博客大概率会长时间没有更新....  <br>
    <font size=2 color=#d56359 >本博客使用Hugo，用了[reuixiy](https://io-oi.me/)（其实就是「一休儿」的拼音，只不过顺序是从右往左）的[MemE](https://github.com/reuixiy/hugo-theme-meme)主题。</font>  <br>
