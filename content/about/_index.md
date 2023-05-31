@@ -15,5 +15,5 @@ adjacentPost: false
    <font size=2 color=#d56359 >你可以通过邮箱地址：i@imum.me 联系到我。</font>  <br>
    <font size=2 color=#d56359 >也可以通过微博 [@积极向上呀-](https://weibo.com/zhaomumu520) 联系我。</font><br>
    <font size=2 color=#d56359 >自从腾讯云开发不给薅羊毛以后，哔哔了啥就一直停用，前一阵看到木木大佬的帖子，用了开源的[Memos](https://usememos.com/)+微软Azure重新启动哔哔了啥，虽然以前的哔哔没了。也可以通过https://mybelife.com ,来看我的[🦖胡言乱语](https://imum.me/talk/)。</font><br>
-   <font color=#d56359 >自从腾讯云开发不给薅羊毛以后，哔哔了啥就一直停用，前一阵看到木木大佬的帖子，用了开源的[Memos](https://usememos.com/)+微软Azure重新启动哔哔了啥，虽然以前的哔哔没了。也可以通过https://mybelife.com ,来看我的[🦖胡言乱语](https://imum.me/talk/)。</font><br>
+ 
 ![IMG_7545](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/IMG_7545.JPG)
