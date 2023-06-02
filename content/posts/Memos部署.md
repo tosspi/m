@@ -10,8 +10,8 @@ readingBar: true
 ![UifGMN](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/UifGMN.jpg)
 
 <br>
-<font size=3>
-&emsp;&emsp;自从腾讯云开发不给薅羊毛以后，[🦖胡言乱语](https://imum.me/talk/) 就一直处与停摆状态，前几天突然发现[木木大佬](https://immmmm.com/)的博客更新了[Memos](https://usememos.com/) 版本的哔哔了啥，于是乎，开搞。。。。<br>
+
+&emsp;&emsp;自从腾讯云开发不给薅羊毛以后，[🦖胡言乱语](https://imum.me/talk/)就一直处与停摆状态，前几天突然发现 [木木大佬](https://immmmm.com/) 的博客更新了 [Memos](https://usememos.com/) 版本的哔哔了啥，于是乎，开搞。。。。<br>
 &emsp;&emsp;Memos官网：[https://usememos.com/](https://usememos.com/)<br>
 &emsp;&emsp;Github:[https://github.com/usememos/memos](https://github.com/usememos/memos)<br>
 &emsp;&emsp;建议使用Docker部署。<br>
@@ -47,7 +47,8 @@ docker-compose pull && docker-compose up -d --force-recreate
 ```
 <br>
 &emsp;&emsp;也可以按照官方的教程更新，但是更新前要先去Docker管理界面删除镜像，比较麻烦。<br>
-&emsp;&emsp;PS.要不定时备份一下网址目录下的` .memos `文件夹，所有的数据都在里边。<br>
+PS.要不定时备份一下网址目录下的 " .memos " 文件夹，所有的数据都在里边。
+<br>
 &emsp;&emsp;还要设置一下反向代理，实现https://xxx.com 打开，要不然需要添加端口号比如：https://xxx.com:5230 才能访问。<br>
 
 ![SSP0o0](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/SSP0o0.png)
@@ -167,7 +168,7 @@ setTimeout(function() {
 
 ```
 
-&emsp;&emsp;PS.注意查看自己的CeatorId是几对应修改一下。</font><br>
+&emsp;&emsp;PS.注意查看自己的CeatorId是几对应修改一下。<br>
 ![vLUrVT](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/vLUrVT.png)
 
 
