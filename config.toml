@@ -205,7 +205,7 @@ uglyURLs = false
         pageref = "/talk/"
         name = "Talk"
         weight = 3
-        pre = "external"
+        pre = "internal"
         post = "comments"
     [[menu.main]]
         pageref = "/tags/"
@@ -226,13 +226,19 @@ uglyURLs = false
         pre = "external"
         post = "travelling"
     [[menu.main]]
+        pageref = "/Links/"
+        name = "Links"
         weight = 7
-        identifier = "theme-switcher"
+        pre = "external"
+        post = "links-yun"   
     [[menu.main]]
         weight = 8
+        identifier = "theme-switcher"
+    [[menu.main]]
+        weight = 9
         identifier = "lang-switcher"
     # [[menu.main]]
-    #     weight = 9
+    #     weight = 7
     #     identifier = "search"
     #     post = "search"
 
