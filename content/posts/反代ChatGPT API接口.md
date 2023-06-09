@@ -1,5 +1,5 @@
 ---
-title: "Memos部署"
+title: "反代ChatGPT API接口"
 date: 2023-06-09T10:48:58+08:00
 draft: false
 tags: ["折腾"]
@@ -37,7 +37,7 @@ proxy_ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
 &emsp;&emsp;<font size=3 color=#255b21>点击保存，然后测试一下</font><br>
 ![2360906](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/2360906.png)
 &emsp;&emsp;<font size=3 color=#255b21>一切OK</font><br>
-&emsp;&emsp;<font size=3 color=#255b21>测试下Bob翻译，nice</font><br>
+&emsp;&emsp;<font size=3 color=#255b21>测试下Bob翻译，Perfect.</font><br>
 ![QFOdeK](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/QFOdeK.png)
 
 
