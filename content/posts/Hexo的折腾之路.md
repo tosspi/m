@@ -97,3 +97,10 @@ git remote add origin git@github.com:XXXX/XXXX.git
    当然还可以选择[Netlify](https://app.netlify.com/),我的另一个博客就是用Netlify部属的，当然采用的hugo+Netlify。
    ![WX20220921-171550](https://cdn.jsdelivr.net/gh/imum-me/img@main/uPic/WX20220921-171550.png)
    Cloudflare这里就不多说了，同样简单。   
+
+
+
+
+
+
+>&emsp;&emsp;<font size=9 color=#7a1b0c>生命不息，折腾不止。</font>

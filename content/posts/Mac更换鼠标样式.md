@@ -8,15 +8,15 @@ readingBar: true
 ---
 # 介绍
 
-mac更换鼠标样式依靠mousecape实现，
+&emsp;&emsp;mac更换鼠标样式依靠mousecape实现，
 
 [mousecape](https://github.com/alexzielenski/Mousecape)是Github上的一个项目，作者是[alexzielenski](https://github.com/alexzielenski)，
 
-项目是用于修改Mac系统鼠标样式的，支持动态鼠标样式。
+&emsp;&emsp;项目是用于修改Mac系统鼠标样式的，支持动态鼠标样式。
 
 # mousecape使用
 
-可以去[Github](https://github.com/alexzielenski/Mousecape/releases/tag/1813)下载，也可以从[这里下载](https://ibelife.cowtransfer.com/s/f6e5fd85dfe943)，下载解压后拖入Applications并安装一下帮助工具就好啦(因为我已经安装了，所以显示的是***Uninstall Helper Tool***)。
+&emsp;&emsp;可以去[Github](https://github.com/alexzielenski/Mousecape/releases/tag/1813)下载，也可以从[这里下载](https://ibelife.cowtransfer.com/s/f6e5fd85dfe943)，下载解压后拖入Applications并安装一下帮助工具就好啦(因为我已经安装了，所以显示的是***Uninstall Helper Tool***)。
 
 ![help tool截图](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/WX20211110-162606.png)
 
@@ -24,21 +24,21 @@ mac更换鼠标样式依靠mousecape实现，
 
 ## 指针样式准备
 
-鼠标样式可以自己制作采用图片的方式来制作，在此之前我们可以制作一些png格式的图片(可以用Photoshop之类的软件)，也可以自己下载一些已经制作好的鼠标指针，我是在[致美化](https://zhutix.com/tag/cursors/)下的，下载完解压，选用cur格式的。
+&emsp;&emsp;鼠标样式可以自己制作采用图片的方式来制作，在此之前我们可以制作一些png格式的图片(可以用Photoshop之类的软件)，也可以自己下载一些已经制作好的鼠标指针，我是在[致美化](https://zhutix.com/tag/cursors/)下的，下载完解压，选用cur格式的。
 
 ![鼠标指针解压截图](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/WX20211112-111028.png)
 
 ## 制作并使用
 
-依次点击左上角File👉🏻New Cape
+&emsp;&emsp;依次点击左上角File👉🏻New Cape
 
 ![新建样式](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/WX20211112-111459.png)
 
-然后会出现一个新的样式Unnamed，右键点击Edit
+&emsp;&emsp;然后会出现一个新的样式Unnamed，右键点击Edit
 
 ![添加样式2](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/WX20211112-111525.png)
 
-在此页面可以修改名字、作者、文件名、版本号、Retina选项。
+&emsp;&emsp;在此页面可以修改名字、作者、文件名、版本号、Retina选项。
 
 ![新建样式2](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/WX20211112-111610.png)
 
@@ -48,11 +48,11 @@ mac更换鼠标样式依靠mousecape实现，
 >
 > Mac Retina [官方文档](https://support.apple.com/zh-cn/HT202471) 
 
-填写好信息以后，右键选择New Cursor，也可以点击左下角『+』号添加
+&emsp;&emsp;填写好信息以后，右键选择New Cursor，也可以点击左下角『+』号添加
 
 ![新建样式](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/WX20211112-111643.png)
 
-填写相关信息
+&emsp;&emsp;填写相关信息
 
 ![新建样式4](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/WX20211112-111704.png)
 
@@ -65,17 +65,17 @@ mac更换鼠标样式依靠mousecape实现，
 
 ![新建样式](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/WX20211112-111752.png)
 
-在拖完样式以后会看到有个小红点，然后修改HotSpot调整实际点击位置
+&emsp;&emsp;在拖完样式以后会看到有个小红点，然后修改HotSpot调整实际点击位置
 
 ![添加样式5](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/WX20211112-113902.png)
 
-所有样式添加完成以后，右键点击Apply就可以看到鼠标样式已经更改。
+&emsp;&emsp;所有样式添加完成以后，右键点击Apply就可以看到鼠标样式已经更改。
 
 ![应用样式](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/WX20211112-114202.png)
 
 ## 取消鼠标指针修改
 
-点击右上角Capes👉🏻Remove Cape就可以了
+&emsp;&emsp;点击右上角Capes👉🏻Remove Cape就可以了
 
 ![取消样式修改](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/WX20211112-114211.png)
 
@@ -83,7 +83,7 @@ mac更换鼠标样式依靠mousecape实现，
 
 ## Mac OS鼠标指针样式的官方文档
 
-官方文档是稍微有一点小bug的，比如：
+&emsp;&emsp;官方文档是稍微有一点小bug的，比如：
 
 - 错别字 中文版文档：“当您选择图像中的句型(矩形)区域时，该光标会出现。”
 - 不详尽 比如move系列是有斜对角方向的，官方文档没有写，而且样式也稍微有些不一样；可能还有其他指针样式的遗漏。
@@ -94,7 +94,7 @@ mac更换鼠标样式依靠mousecape实现，
 
 ## mousecape的指针样式命名
 
-mac系统的指针样式是稍微有一点小bug的，比如：
+&emsp;&emsp;mac系统的指针样式是稍微有一点小bug的，比如：
 
 - 有一些样式会失效，比如制作替身、拖拽拷贝
 - 有一些样式会闪烁，比如点击链接等手形指针
@@ -146,3 +146,5 @@ mac系统的指针样式是稍微有一点小bug的，比如：
 | Window系列    | 各个方向的移动            | ![0eb5b604ca578d6cb8d651e5a5073682](https://help.apple.com/assets/5AA195BD094622847B7F3DA3/5AA195BE094622847B7F3DAA/zh_CN/0eb5b604ca578d6cb8d651e5a5073682.png) |  √   |
 
 > PS.可以去看一下知乎上的[这篇文章](https://zhuanlan.zhihu.com/p/36726332)。
+
+>&emsp;&emsp;<font size=9 color=#7a1b0c>生命不息，折腾不止。</font>

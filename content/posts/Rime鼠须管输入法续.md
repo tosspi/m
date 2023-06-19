@@ -8,12 +8,12 @@ readingBar: true
 ---
 ![rime](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/rime.png)
 
-<font size=4 color=#ffa07a>今天在找“哔哔了啥”的解决方案，发现[木木大佬](https://immmmm.com/) 的博客内关于Rime的文章。</font><br>
+&emsp;&emsp;<font size=4 color=#ffa07a>今天在找“哔哔了啥”的解决方案，发现[木木大佬](https://immmmm.com/) 的博客内关于Rime的文章。</font><br>
 ![517-1](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/517-1.png) <br>
-<font size=4 color=#ffa07a>原先用的是[三十年河东的朙月拼音](https://ssnhd.com/2022/01/06/rime/) Github: [https://github.com/ssnhd/rime](https://github.com/ssnhd/rime) 。</font><br>
+&emsp;&emsp;<font size=4 color=#ffa07a>原先用的是[三十年河东的朙月拼音](https://ssnhd.com/2022/01/06/rime/) Github: [https://github.com/ssnhd/rime](https://github.com/ssnhd/rime) 。</font><br>
 ![517-2](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/517-2.png)
 <br>
-<font size=4 color=#ffa07a>通过木木大佬的文章，发现还有个[雾凇拼音](https://dvel.me/posts/rime-ice/) Github: [https://github.com/iDvel/rime-ice](https://github.com/iDvel/rime-ice) ,感觉也不错，主要是U模式拆字，决定开搞。</font>
+&emsp;&emsp;<font size=4 color=#ffa07a>通过木木大佬的文章，发现还有个[雾凇拼音](https://dvel.me/posts/rime-ice/) Github: [https://github.com/iDvel/rime-ice](https://github.com/iDvel/rime-ice) ,感觉也不错，主要是U模式拆字，决定开搞。</font>
 
 
 <br> 
@@ -23,24 +23,24 @@ readingBar: true
 <br>
 
 
-<font size=4 color=#ffa07a>搞完以后用着真舒服，词库跟 朙月拼音 整合了一下。</font>
+&emsp;&emsp;<font size=4 color=#ffa07a>搞完以后用着真舒服，词库跟 朙月拼音 整合了一下。</font>
 
-<font size=4 color=#ffa07a>更换了微信皮肤</font>
+&emsp;&emsp;<font size=4 color=#ffa07a>更换了微信皮肤</font>
 
 ![517-4](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/517-4.png)
 
-<font size=4 color=#ffa07a>有了u开头两分拼字，弥补了不知道拼音时的尴尬</font>
+&emsp;&emsp;<font size=4 color=#ffa07a>有了u开头两分拼字，弥补了不知道拼音时的尴尬</font>
 ![517-5](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/517-5.png)
 
-<font size=4 color=#ffa07a>有了v开头，symbols字符，可以自定义</font>
+&emsp;&emsp;<font size=4 color=#ffa07a>有了v开头，symbols字符，可以自定义</font>
 
 ![517-6](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/517-6.png)
 
-<font size=4 color=#ffa07a>安装了[霞鹜文楷](https://github.com/lxgw/LxgwWenKai) , 并作为鼠须管的字体使用。</font>
+&emsp;&emsp;<font size=4 color=#ffa07a>安装了[霞鹜文楷](https://github.com/lxgw/LxgwWenKai) , 并作为鼠须管的字体使用。</font>
 
 ![517-8](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/517-8.png)
 
-<font size=4 color=#ffa07a>以下是方案设计</font>
+&emsp;&emsp;<font size=4 color=#ffa07a>以下是方案设计</font>
 ***
 ```
 
@@ -73,3 +73,5 @@ readingBar: true
 
 
 ![rime-4](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/rime-4.png)
+
+>&emsp;&emsp;<font size=9 color=#7a1b0c>生命不息，折腾不止。</font>

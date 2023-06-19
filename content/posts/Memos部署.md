@@ -173,3 +173,5 @@ setTimeout(function() {
 
 
 &emsp;&emsp;<font size=10 color=#ffa07a>END</font>
+
+>&emsp;&emsp;<font size=9 color=#7a1b0c>生命不息，折腾不止。</font>
