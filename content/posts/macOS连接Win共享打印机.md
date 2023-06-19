@@ -1,7 +1,10 @@
 ---
 title: "macOS连接Win共享打印机"
 date: 2023-06-19T08:53:25+08:00
-draft: true
+draft: false
+tags: ["折腾"]
+adjacentPost: true
+readingBar: true
 ---
 
 ![23061900](https://cdn.jsdelivr.net/gh/tosspi/mumu@main/uPic/23061900.png)
