@@ -16,9 +16,10 @@ displayPostCopyright: false
 <script src="https://fastly.jsdelivr.net/gh/Tokinx/ViewImage/view-image.min.js"></script>
 <script src="https://fastly.jsdelivr.net/gh/Tokinx/Lately/lately.min.js"></script>
 <script type="text/javascript">
+<script src="https://cdn.staticfile.org/twikoo/1.6.16/twikoo.all.min.js"></script>
   var bbMemos = {
     memos : 'https://mybelife.com/',//修改为自己部署 Memos 的网址，末尾有 / 斜杠
-    limit : '10',//默认每次显示 10条
+    limit : '15',//默认每次显示 10条
     creatorId:'1' ,//早期默认为 101 用户，新安装是 1； https://demo.usememos.com/u/101
     domId: '',//默认为 <div id="bber"></div>
   }
