@@ -325,7 +325,7 @@ uglyURLs = false
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = [" ![zhao](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/zhaoico2.png)<br>**我说 <font size=5 color=#f7cc003 >你是人间的四月天；</font>** <br><br> **笑响点亮了四面风；** <br><br> **轻灵在春的光艳中交舞着变。** <br><br> **你是四月早天里的云烟，** <br><br> **黄昏吹着风的软，星子在** <br><br> **无意中闪，细雨点洒在花前。** <br><br> **那轻，那娉婷，你是，** <br><br> **鲜妍百花的冠冕你戴着，** <br><br> **你是天真，庄严，** <br><br> **你是夜夜的月圆。** <br> <br>**雪化后那片鹅黄，你像；** <br> <br>**新鲜初放芽的绿，你是；** <br> <br>**柔嫩喜悦，水光浮动着你梦期待中白莲。** <br> <br>**你是一树一树的花开，** <br> <br>**是燕在梁间呢喃，** <br> <br> <font size=5 color=#DC143C >**——你是爱，是暖，** <br> <br> **是希望，** <br> <br> **你是人间的四月天！**</font>  <br> [![无聊湾 🥱 The Boring Bay](https://boringbay.com/api/badge/imum.me)](https://boringbay.com) "]
+    homePoetry = [" ![zhao](https://cdn.jsdelivr.net/gh/tosspi/img@main//img/zhaoico2.png)<br>**我说 <font size=5 color=#f7cc003 >你是人间的四月天；</font>** <br><br> **笑响点亮了四面风；** <br><br> **轻灵在春的光艳中交舞着变。** <br><br> **你是四月早天里的云烟，** <br><br> **黄昏吹着风的软，星子在** <br><br> **无意中闪，细雨点洒在花前。** <br><br> **那轻，那娉婷，你是，** <br><br> **鲜妍百花的冠冕你戴着，** <br><br> **你是天真，庄严，** <br><br> **你是夜夜的月圆。** <br> <br>**雪化后那片鹅黄，你像；** <br> <br>**新鲜初放芽的绿，你是；** <br> <br>**柔嫩喜悦，水光浮动着你梦期待中白莲。** <br> <br>**你是一树一树的花开，** <br> <br>**是燕在梁间呢喃，** <br> <br> <font size=5 color=#DC143C >**——你是爱，是暖，** <br> <br> **是希望，** <br> <br> **你是人间的四月天！**</font> "]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
