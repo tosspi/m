@@ -970,7 +970,7 @@ uglyURLs = false
     ######################################
     ## 字号（单位：px）
 
-    fontSize = 16
+    fontSize = 17
 
     ######################################
     ## 制表符的宽度
@@ -990,7 +990,7 @@ uglyURLs = false
     enableParagraphIndent = true
 
     # 是否缩进第一段（全局设置）
-    indentFirstParagraph = false
+    indentFirstParagraph = true
     # 说明：文章的 Front Matter 中的 `indentFirstParagraph`
     #      的优先级高于此处
 
