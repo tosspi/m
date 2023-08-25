@@ -20,7 +20,7 @@ displayPostCopyright: false
 <script src="https://fastly.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script src="https://fastly.jsdelivr.net/gh/Tokinx/ViewImage/view-image.min.js"></script>
 <script src="https://fastly.jsdelivr.net/gh/Tokinx/Lately/lately.min.js"></script>
-<script src="https://cdn.staticfile.org/twikoo/1.6.16/twikoo.all.min.js"></script>
+<script src="https://cdn.staticfile.org/twikoo/1.6.17/twikoo.all.min.js"></script>
 <script type="text/javascript">
   var bbMemos = {
     memos : 'https://mybelife.com/',//修改为自己部署 Memos 的网址，末尾有 / 斜杠
