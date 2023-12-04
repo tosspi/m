@@ -1,5 +1,5 @@
 ---
-title: "GooglePixel8Pro之电信开启VOLTE并设置5G"
+title: "Google Pixel 8 Pro之电信开启VOLTE并设置5G"
 date: 2023-12-04T08:08:43+08:00
 draft: false
 tags: ["折腾"]
