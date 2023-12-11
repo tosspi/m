@@ -2,7 +2,7 @@
 title: "Google Pixel 8 Pro之电信开启VOLTE并设置5G"
 date: 2023-12-04T08:08:43+08:00
 draft: false
-tags: ["折腾"]
+tags: ["折腾","Pixel"]
 adjacentPost: true
 readingBar: true
 ---
@@ -34,7 +34,7 @@ readingBar: true
 
 ![1701650044985](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1701650044985.jpg)
 
-
+![1702262839650](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1702262839650.jpg)
 
 <br>
 

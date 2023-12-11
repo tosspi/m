@@ -2,7 +2,7 @@
 title: "Google Pixel8 Pro之ROOT"
 date: 2023-12-02T07:54:25+08:00
 draft: false
-tags: ["折腾"]
+tags: ["折腾","Pixel"]
 adjacentPost: true
 readingBar: true
 ---

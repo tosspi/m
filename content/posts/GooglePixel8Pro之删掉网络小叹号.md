@@ -2,7 +2,7 @@
 title: "Google Pixel 8 Pro之删掉网络小叹号"
 date: 2023-12-04T08:38:59+08:00
 draft: false
-tags: ["折腾"]
+tags: ["折腾","Pixel"]
 adjacentPost: true
 readingBar: true
 ---
