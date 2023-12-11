@@ -16,6 +16,8 @@ readingBar: true
 
 解压，使用编辑器打开`flash-all.bat` 这个文件。
 
+![1702264896783](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1702264896783.jpg)
+
 修改`fastboot -w update image-husky-uqla.231205.015.zip` 为 `fastboot update image-husky-uqla.231205.015.zip` 就是去掉"-w".
 
 ![1702262839647](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1702262839647.jpg)
@@ -36,8 +38,7 @@ readingBar: true
 
 需要注意的是root过程中需要"boot.img"与"init_boot.img"文件应该是我们下载的完成OTA镜像中的。
 
-![1702262839653](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1702262839653.jpg)
-
+![1702264896974](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1702264896974.jpg)
 
 
 <br>
