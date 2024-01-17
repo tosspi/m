@@ -9,8 +9,10 @@ readingBar: true
 
 ![1705476798365](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705476798365.jpg)
 &emsp;&emsp;<font size=5 color=#ffa07a>2</font>024年，要加油呀！<br>
-
-&emsp;&emsp;我在2023年最后一天读过了我的30岁生日，狗子在2024年第一周结束时度过了30岁生日。<br>
+![1705477377635](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705477377635.jpg)
+![1705477377657](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705477377657.jpg)
+![1705477377604](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705477377604.jpg)
+&emsp;&emsp;我在2023年最后一天读过了我的30岁生日，狗子在2024年第一周结束时度过了30岁生日。有几个老大爷带着音响喇叭在地库唱歌，大宝还在那唱歌，似乎是上瘾了，连续两天都去唱。<br>
 ![1705476279571](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705476279571.jpg)
 ![1705476279301](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705476279301.jpg)
 ![1705476279430](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705476279430.jpg)
@@ -26,7 +28,7 @@ readingBar: true
 ![1705476279592](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705476279592.jpg)
 ![1705476279640](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705476279640.jpg)
 &emsp;&emsp;本来计划元旦带俩宝贝蛋子去淄博玩，结果因为我工作问题，没能去，所以我们在6号带着他们去了淄博，去了小象动物园，给大宝在小象动物园办了卡，以后再带她来喂动物，俩宝都很乖。<br>
-
+![1705477381907](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705477381907.jpg)
 ![1705476798257](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705476798257.jpg)
 ![1705476798481](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705476798481.jpg)
 ![1705476798302](https://cdn.jsdelivr.net/gh/tosspi/picx-images-hosting@master/1705476798302.jpg)
