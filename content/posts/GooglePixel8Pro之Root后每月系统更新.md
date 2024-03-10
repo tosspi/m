@@ -26,7 +26,7 @@ readingBar: true
 
 接下来就是执行"flash-all.bat"这个文件。
 
-1.将手机链接到电脑，在adb文件夹按住"Shift"邮件，点击“在此处打开命令窗口”（CMD），然后输入`abd devices`查看手机是否成功连接。
+1.将手机链接到电脑，在adb文件夹按住"Shift"邮件，点击“在此处打开命令窗口”（CMD），然后输入`adb devices`查看手机是否成功连接。
 
 2.重启手机到Bootloader,输入`adb reboot bootloader`.
 
