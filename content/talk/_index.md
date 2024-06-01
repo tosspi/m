@@ -25,7 +25,7 @@ displayPostCopyright: false
   var bbMemos = {
     memos : 'https://mybelife.com/',//修改为自己部署 Memos 的网址，末尾有 / 斜杠
     limit : '15',//默认每次显示 10 条
-    creatorId:'Zhao' ,//早期默认为 101 用户，新安装是 1； https://demo.usememos.com/u/101
+    creatorId:'1' ,//早期默认为 101 用户，新安装是 1； https://demo.usememos.com/u/101
     domId: '',//默认为 bber
     twiEnv:'',//启开 twikoo 评论，默认 https://metk.edui.fun/
   }
