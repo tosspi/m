@@ -23,7 +23,7 @@ displayPostCopyright: false
 <script src="https://cdn.staticfile.org/twikoo/1.6.16/twikoo.all.min.js"></script>
 <script type="text/javascript">
   var bbMemos = {
-    memos : 'http://mybelife.com/',//修改为自己部署 Memos 的网址，末尾有 / 斜杠
+    memos : 'https://mybelife.com/',//修改为自己部署 Memos 的网址，末尾有 / 斜杠
     limit : '15',//默认每次显示 10 条
     creatorId:'1' ,//早期默认为 101 用户，新安装是 1； https://demo.usememos.com/u/101
     domId: '',//默认为 bber
