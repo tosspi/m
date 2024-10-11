@@ -16,12 +16,12 @@ displayPostCopyright: false
 <script src="https://fastly.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script src="https://fastly.jsdelivr.net/gh/Tokinx/ViewImage/view-image.min.js"></script>
 <script src="https://fastly.jsdelivr.net/gh/Tokinx/Lately/lately.min.js"></script>
-<script src="https://cdn.staticfile.org/twikoo/1.6.29/twikoo.all.min.js"></script>
+<script src="https://cdn.staticfile.org/twikoo/1.6.16/twikoo.all.min.js"></script>
 <script type="text/javascript">
   var bbMemos = {
-    memos : 'http://47.103.62.167:5230/',//修改为自己部署 Memos 的网址，末尾有 / 斜杠
+    memos : 'https://me.edui.fun/',//修改为自己部署 Memos 的网址，末尾有 / 斜杠
     limit : '',//默认每次显示 10 条
-    creatorId:'1' ,//早期默认为 101 用户，新安装是 1； https://demo.usememos.com/u/101
+    creatorId:'' ,//早期默认为 101 用户，新安装是 1； https://demo.usememos.com/u/101
     domId: '',//默认为 bber
     twiEnv:'',//启开 twikoo 评论，默认 https://metk.edui.fun/
   }
