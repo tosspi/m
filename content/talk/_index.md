@@ -23,6 +23,7 @@ displayPostCopyright: false
     memos : 'https://me.edui.fun/',//修改为自己部署 Memos 的网址，末尾有 / 斜杠
     limit : '',//默认每次显示 10 条
     creatorId:'1' ,//早期默认为 101 用户，新安装是 1； https://demo.usememos.com/u/101
+    APIVersion: 'new'
     domId: '',//默认为 bber
     twiEnv:'https://masone-zhao-twikoo.hf.space/',//启开 twikoo 评论，默认 https://metk.edui.fun/
   }
