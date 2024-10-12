@@ -11,90 +11,20 @@ enablePostCopyright: false
 displayPostCopyright: false
 ---
 
-<!DOCTYPE html>
-<html lang="en">
+<div id="bber"></div>
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="referrer" content="no-referrer">
-    <link rel="icon" href="/assets/img/logo.webp" type="image/*" />
-    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/APlayer.min.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/highlight.github.min.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/custom.css" rel="stylesheet" type="text/css">
-    <title>Memos Top</title>
-
-</head>
-
-<body>
-    <header>
-        <div class="menu">
-            <div class="title">Memos</div>
-
-            <div class="pages">
-                    <a href="https://github.com/eallion/memos.top" target="_blank" rel="noopener noreferrer" class="">GitHub</a>
-                    <a href="https://eallion.com/memos" target="_blank" rel="noopener noreferrer" class="">I'm Feeling Lucky</a>
-            </div>
-
-        </div>
-        
-        <div class='theme-toggle'>🌓</div>
-
-    </header>
-
-    <section id="main" class="container">
-        <h1>Memos Top</h1>
-
-        <blockquote>
-            <p>Je <del>memos</del>, donc je suis - <em>René Descartes fans</em></p>
-        </blockquote>
-
-        <div class="total">Total <span id="total">0</span> Memos 🎉</div>
-
-        <blockquote id="tag-filter" class="filter">
-            <div id="tags"></div>
-        </blockquote>
-
-        <div id="memos" class="memos">
-            <!-- Memos Container -->
-        </div>
-
-    </section>
-
-    <footer class="markdown-body footer">
-        <p>Copyright @
-            <script>
-                document.write(new Date().getFullYear())
-            </script><a href="https://www.eallion.com/" target="_blank" rel="noopener noreferrer" class="hidden">Charles
-                'eallion' Chin</a> All Rights Reserved.
-        </p>
-
-    </footer>
-
-    <!-- Your Memos API -->
-    <script type="text/javascript">
-        var memos = {
-            host: 'http://47.103.62.167:5230/',  // Your Memos instance.
-            limit: '10',  // Pagination to show.
-            creatorId: '1',  // The old instance is 101, and the new instance is 1. 
-            domId: '#memos',  // Default #memos.
-            username: 'Masone',  // You can customize the display ID that is not related to memos.
-            name: 'Masone',  // You can customize the displayed full name, that is not related to memos.
-            language: 'en', // 'en' 'zh-CN' etc. Used by Relative Time.
-            APIVersion: 'new', // 'new' or 'legacy', Memos API Version, <v0.22.0: 'legacy', >=v0.22.0: 'new'.
-            total: true, // Display total memos. No interface is displayed in the new version.
-            doubanAPI: '', // Fill a API to render douban subject. `null` to disable. API self-hosted: https://github.com/eallion/douban-api-rs
-        }
-
-    </script>
-    <script type="text/javascript" src="assets/js/marked.umd.min.js?v=14.0.0"></script>
-    <script type="text/javascript" src="assets/js/view-image.min.js"></script>
-    <script type="text/javascript" src="assets/js/APlayer.min.js"></script>
-    <script type="text/javascript" src="assets/js/Meting.min.js"></script>
-    <script type="text/javascript" src="assets/js/main.js"></script>
-    <script type="text/javascript" src="assets/js/custom.js"></script>
-</body>
-
-</html>
+<script type="module" src="https://immmmm.com/emaction.js?v=230811"></script>
+<script src="https://fastly.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="https://fastly.jsdelivr.net/gh/Tokinx/ViewImage/view-image.min.js"></script>
+<script src="https://fastly.jsdelivr.net/gh/Tokinx/Lately/lately.min.js"></script>
+<script src="https://cdn.staticfile.org/twikoo/1.6.39/twikoo.all.min.js"></script>
+<script type="text/javascript">
+  var bbMemos = {
+    memos : 'http://47.103.62.167:5230/',//修改为自己部署 Memos 的网址，末尾有 / 斜杠
+    limit : '',//默认每次显示 10 条
+    creatorId:'1' ,//早期默认为 101 用户，新安装是 1； https://demo.usememos.com/u/101
+    domId: '',//默认为 bber
+    twiEnv:'https://masone-zhao-twikoo.hf.space',//启开 twikoo 评论，默认 https://metk.edui.fun/
+  }
+</script>
+<script src="https://immmmm.com/bb-lmm-mk.js?v=230811"></script>
