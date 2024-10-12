@@ -30,11 +30,11 @@ displayPostCopyright: false
     //limit: '10', // 每页显示的条数，默认显示 10 条。
     //creatorId: '1', // 老的实例是 101，新的实例是 1。https://demo.usememos.com/u/1
     //domId: '#memos', // 默认为 #memos，一般不用修改。
-    username: 'memos', // 自定义显示在前端的 ID。
-    name: 'Official Demo', // 自定义显示在前端的全名。
-    language: 'zh-CN', // `en` `zh-CN` 等，用于显示相对时间。
+    //username: 'memos', // 自定义显示在前端的 ID。
+    //name: 'Official Demo', // 自定义显示在前端的全名。
+    //language: 'zh-CN', // `en` `zh-CN` 等，用于显示相对时间。
     //APIVersion: 'new', // `new` 或者 `legacy`，Memos API 版本，小于 `v0.22.0`: 填写：`legacy`，大于等于 `v0.22.0`：填写`new`。
-    total: true, // 显示 Memos 总条数。新版没有好办法显示，老版本也关闭了 Amount API。
+    //total: true, // 显示 Memos 总条数。新版没有好办法显示，老版本也关闭了 Amount API。
     //doubanAPI: '', // 填入一个 API 渲染豆瓣条目，不填不渲染，只显示 URL，自建 API：https://github.com/eallion/douban-api-rs
   }
 </script>
