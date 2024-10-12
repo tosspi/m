@@ -38,7 +38,4 @@ displayPostCopyright: false
     //doubanAPI: '', // 填入一个 API 渲染豆瓣条目，不填不渲染，只显示 URL，自建 API：https://github.com/eallion/douban-api-rs
   }
 </script>
-
-  }
-</script>
 <script src="https://immmmm.com/bb-lmm-mk.js?v=230811"></script>
