@@ -202,7 +202,7 @@ uglyURLs = false
         pre = "internal"
         post = "archive"
     [[menu.main]]
-        pageref = "/talk/"
+        url = "https://masone.netlify.app/"
         name = "Talk"
         weight = 3
         pre = "internal"
