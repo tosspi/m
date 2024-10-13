@@ -20,7 +20,7 @@ displayPostCopyright: false
 <script src="https://cdn.staticfile.org/twikoo/1.6.39/twikoo.all.min.js"></script>
 <script type="text/javascript">
   var bbMemos = {
-    host: 'http://47.103.62.167:5230/',//修改为自己部署 Memos 的网址，末尾有 / 斜杠
+    memos: 'http://47.103.62.167:5230/',//修改为自己部署 Memos 的网址，末尾有 / 斜杠
     limit: '',//默认每次显示 10 条
     creatorId:'1' ,//早期默认为 101 用户，新安装是 1； https://demo.usememos.com/u/101
     APIVersion: 'new'
