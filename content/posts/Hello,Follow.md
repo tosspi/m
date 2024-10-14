@@ -22,7 +22,6 @@ readingBar: true
 
 &emsp;&emsp;最后感谢大佬们在Discord分享邀请码，等我时间够了可以分享邀请码了，我也回来分享我的邀请码。<br>
 
-This message is used to verify that this feed (feedId:68453213168757760) belongs to me (userId:67114725151543296). Join me in enjoying the next generation information browser https://follow.is.
 
 
 >*Follow:https://follow.is/*
@@ -33,6 +32,8 @@ This message is used to verify that this feed (feedId:68453213168757760) belongs
 
 >*X: https://x.com/follow_app_*
 
+> 以下信息仅为验证Follow订阅认证
+*This message is used to verify that this feed (feedId:68453213168757760) belongs to me (userId:67114725151543296). Join me in enjoying the next generation information browser https://follow.is.*
 
 
 
