@@ -52,6 +52,7 @@
                     {{- $summary := .Description | default (partial "utils/summary.html" $page) -}}
                     <description>{{ partial "utils/make-links-absolute.html" (dict "$" . "content" $summary) | html }}</description>
                 {{ end }}
+                <description>feedId:68453213168757760+userId:67114725151543296</description>
                 <!-- Sections -->
                 {{ if eq $.Site.Params.categoryBy "sections" }}
                     {{ $.Scratch.Delete "sectionDir" }}
@@ -83,4 +84,8 @@
             </item>
         {{ end }}
     </channel>
+<follow_challenge>
+    <feedId>68453213168757760</feedId>
+    <userId>67114725151543296</userId>
+</follow_challenge>
 </rss>
