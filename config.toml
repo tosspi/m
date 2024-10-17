@@ -96,7 +96,7 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "Zhao"
+    name = "Masone"
     # 邮箱
     email = "i@imum.me"
     # 座右铭或简介
@@ -225,12 +225,12 @@ uglyURLs = false
         weight = 6
         pre = "external"
         post = "travelling"
-    [[menu.main]]
-        pageref = "/Links/"
-        name = "Links"
-        weight = 7
-        pre = "external"
-        post = "links-yun"   
+    # [[menu.main]]
+    #    pageref = "/Links/"
+    #    name = "Links"
+    #    weight = 7
+    #    pre = "external"
+    #    post = "links-yun"   
     [[menu.main]]
         weight = 8
         identifier = "theme-switcher"
