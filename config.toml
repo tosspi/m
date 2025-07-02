@@ -230,7 +230,7 @@ uglyURLs = false
         name = "News"
         weight = 7
         pre = "external"
-        post = "News"   
+        post = "news"   
     [[menu.main]]
         weight = 8
         identifier = "theme-switcher"
