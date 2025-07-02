@@ -225,12 +225,12 @@ uglyURLs = false
         weight = 6
         pre = "external"
         post = "travelling"
-    # [[menu.main]]
-    #    pageref = "/Links/"
-    #    name = "Links"
-    #    weight = 7
-    #    pre = "external"
-    #    post = "links-yun"   
+    [[menu.main]]
+        pageref = "/categories/"
+        name = "News"
+        weight = 7
+        pre = "external"
+        post = "News"   
     [[menu.main]]
         weight = 8
         identifier = "theme-switcher"
