@@ -226,7 +226,7 @@ uglyURLs = false
         pre = "external"
         post = "travelling"
     [[menu.main]]
-        pageref = "/categories/热点新闻汇总/"
+        url = "http://news.mybelife.com/"
         name = "News"
         weight = 7
         pre = "external"
