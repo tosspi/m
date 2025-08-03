@@ -100,7 +100,7 @@ uglyURLs = false
     # 邮箱
     email = "i@imum.me"
     # 座右铭或简介
-    motto = "要超越过去与悲伤，用坚强和笑容去开拓明天。"
+    motto = "欲买桂花同载酒，终不似少年游....."
     # 头像
     avatar = "/icons/favicon.ico"
     # 网站（默认值：baseURL）
@@ -424,7 +424,7 @@ uglyURLs = false
     # 列表页面
 
     # 宽度
-    listWidth = 42
+    listWidth = 60
     # 说明：如果留空（""），则用 42 作为默认值
     #      单位：em
 
@@ -791,7 +791,7 @@ uglyURLs = false
     readingTimeIcon = "clock"
 
     # 是否显示不蒜子页面浏览量
-    displayBusuanziPagePV = false
+    displayBusuanziPagePV = true
     # 不蒜子页面浏览量的图标
     busuanziPagePVIcon = "eye"
     # 说明：仅在生产环境（production）下渲染
