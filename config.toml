@@ -202,23 +202,23 @@ uglyURLs = false
         pre = "internal"
         post = "archive"
     [[menu.main]]
-        url = "https://masone.netlify.app/"
+        url = "https://mybelife.com/"
         name = "Talk"
         weight = 3
         pre = "internal"
         post = "comments"
-    [[menu.main]]
-        pageref = "/tags/"
-        name = "Tags"
-        weight = 4
-        pre = "internal"
-        post = "tags"
     #[[menu.main]]
-    #    pageref = "/about/"
-    #    name = "About"
-    #    weight = 5
+    #    pageref = "/tags/"
+    #    name = "Tags"
+    #    weight = 4
     #    pre = "internal"
-    #    post = "user-circle"
+    #    post = "tags"
+    [[menu.main]]
+        url = "https://great.mybelife.com/"
+        name = "Great"
+        weight = 5
+        pre = "external"
+        post = "user-circle"
     [[menu.main]]
         url = "https://www.travellings.cn/go.html"
         name = "Travelling"
